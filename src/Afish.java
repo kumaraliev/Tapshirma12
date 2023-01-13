@@ -1,9 +1,9 @@
 public class Afish {
-    String name;
-    String color;
-    int age;
-    String aquarium;
-    double weight;
+    private String name;
+    private String color;
+    private int age;
+    private String aquarium;
+    private double weight;
 
     public String getName() {
         return name;

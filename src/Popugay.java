@@ -1,9 +1,9 @@
 public class Popugay {
 
-    String bird;
-    String name;
-    String color;
-    int age;
+    private String bird;
+    private String name;
+    private String color;
+    private int age;
 
     public String getBird() {
         return bird;

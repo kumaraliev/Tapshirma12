@@ -1,10 +1,10 @@
 public class Thecat {
 
-    String name;
-    String breed;
-    String color;
-    int age;
-    double weight;
+   private String name;
+   private String breed;
+   private String color;
+   private int age;
+   private double weight;
 
     public String getName() {
         return name;

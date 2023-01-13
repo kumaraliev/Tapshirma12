@@ -17,7 +17,7 @@ public class Main {
         Sobaka sobaka =new Sobaka();
         sobaka.setName("Ак тош");
         sobaka.setAge(5);
-        sobaka.setWeight(15);
+        sobaka.setWeight(30);
         sobaka.setColor("Черный");
         sobaka.setBreed("Тайган");
         System.out.println("Аты -> "+ sobaka.getName());

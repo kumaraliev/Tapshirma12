@@ -1,10 +1,10 @@
 public class Sobaka {
 
-    String name;
-    int age;
-    double weight;
-    String color;
-    String breed;
+    private String name;
+    private int age;
+    public double weight;
+    private String color;
+    private String breed;
 
     public String getName() {
         return name;
