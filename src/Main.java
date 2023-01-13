@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Жашы -> "+ popugay.getAge());
 
         System.out.println("//////////////////////////////");
-        
+
 
         Sobaka sobaka =new Sobaka();
         sobaka.setName("Ак тош");
